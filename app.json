@@ -1,6 +1,6 @@
 {
-  "name": "𝐒𝐎𝐔𝐑𝐂𝐄 MEDO",
-  "description": "كسمك تحياتي تحت شعار نت ماش مبرمج نت بطيخ @EU_ET",
+  "name": "𝐒𝐎𝐔𝐑𝐂𝐄 𝐁𝐎𝐘𝐊𝐀",
+  "description": "كسمك تحياتي تحت شعار نت ماش مبرمج نت بطيخ @B_1_l1",
   "logo": "https://te.legra.ph/file/a9f523487c6a82d827dfd.jpg",
   "keywords": [
     "telegram",
@@ -41,7 +41,7 @@
     "MUST_JOIN": {
       "description": "Username of a group or channel for which you want to set force sub.(without @)",
       "required": true,
-      "value": "eu_et"
+      "value": "P_6_D"
     },
     "BOT_TOKEN": {
       "description": "Get this value from @BotFather",
